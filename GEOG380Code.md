@@ -1,4 +1,4 @@
-#ShonGEOG380Final
+#GEOG380Final
 #Project Code
 
 import arcpy
